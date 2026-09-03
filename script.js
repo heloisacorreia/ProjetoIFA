@@ -263,7 +263,7 @@ function trocarImagem(escolha) {
         case "2":
           urlNova = 'cordosol.jfif';
           textoprincipal.innerText="Estrelas ";
-          texto.innerText="O Sol visto a olho nu no espaço é na verdade branco. A coloração amarela que vemos aqui na superfície da Terra é por causa da atmosfera da Terra.";
+          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
           descrevefigura.innerText="Imagem do Sol na cor branca ";
           break;
         default:
