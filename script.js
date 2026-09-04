@@ -268,27 +268,27 @@ function trocarImagem(escolha) {
           break;
         case "3":
           urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="Estrelas ";
-          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
-          descrevefigura.innerText="Imagem de estrelas ";
+          textoprincipal.innerText="Planetas ";
+          texto.innerText="Corpos grandes sem luz própria que giram ao redor de uma estrela, e possuem gravidade forte o suficiente para fiacrem com formato redondo.";
+          descrevefigura.innerText="Imagem de planetas ";
           break;
         case "4":
           urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="Estrelas ";
-          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
-          descrevefigura.innerText="Imagem de estrelas ";
+          textoprincipal.innerText="Satélites naturais ";
+          texto.innerText="Corpos celestes que orbitam ao redor de um planeta ou de outro corpo maior devido à força de gravidade.";
+          descrevefigura.innerText="Imagem da lua ";
           break;
         case "5":
           urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="Estrelas ";
-          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
-          descrevefigura.innerText="Imagem de estrelas ";
+          textoprincipal.innerText="Asteroides e cometas ";
+          texto.innerText="Asteroides são grandes blocos de rocha e metal, enquanto cometas são blocos formados por gelo, poeira e gases congelados, ambos orbitam ao redor do sol e vagam pelo espaço.";
+          descrevefigura.innerText="Imagem de asteroides e cometas ";
           break;
         case "6":
           urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="Estrelas ";
-          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
-          descrevefigura.innerText="Imagem de estrelas ";
+          textoprincipal.innerText="Meteoroides";
+          texto.innerText="Pequeno corpo rochoso ou metálico que viaja pelo espaço sideral.";
+          descrevefigura.innerText="Imagem de meteoroides ";
           break;
         default:
           urlNova = 'acessibilidade.png';
