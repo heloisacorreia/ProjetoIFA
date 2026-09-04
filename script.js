@@ -264,7 +264,7 @@ function trocarImagem(escolha) {
           urlNova = 'cordosol.jfif';
           textoprincipal.innerText="Estrelas ";
           texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+          descrevefigura.innerText="Imagem de estrelas ";
           break;
         default:
           urlNova = 'acessibilidade.png';
