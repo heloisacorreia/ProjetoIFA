@@ -266,6 +266,30 @@ function trocarImagem(escolha) {
           texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
           descrevefigura.innerText="Imagem de estrelas ";
           break;
+        case "3":
+          urlNova = 'cordosol.jfif';
+          textoprincipal.innerText="Estrelas ";
+          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
+          descrevefigura.innerText="Imagem de estrelas ";
+          break;
+        case "4":
+          urlNova = 'cordosol.jfif';
+          textoprincipal.innerText="Estrelas ";
+          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
+          descrevefigura.innerText="Imagem de estrelas ";
+          break;
+        case "5":
+          urlNova = 'cordosol.jfif';
+          textoprincipal.innerText="Estrelas ";
+          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
+          descrevefigura.innerText="Imagem de estrelas ";
+          break;
+        case "6":
+          urlNova = 'cordosol.jfif';
+          textoprincipal.innerText="Estrelas ";
+          texto.innerText="Astros gigantes com luz própria que produzem calor por fusão nuclear, como o Sol.";
+          descrevefigura.innerText="Imagem de estrelas ";
+          break;
         default:
           urlNova = 'acessibilidade.png';
           textoprincipal.innerText="O que é Acessibilidade?";
