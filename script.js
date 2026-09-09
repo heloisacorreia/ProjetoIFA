@@ -255,7 +255,7 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova = imagem 1 ;
+          urlNova = https://github.com/heloisacorreia/ProjetoIFA/issues/1 ;
           textoprincipal.innerText="Corpos celestes";
           texto.innerText="Corpos celestes são todos os objetos e matérias que existem no espaço sideral. Eles se dividem entre os que possuem luz própria como as estrelas e os que são iluminados por outras fontes como planetas, luas e cometas. ";
           descrevefigura.innerText= "Imagem de corpos celestes ";
